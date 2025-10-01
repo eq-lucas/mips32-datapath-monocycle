@@ -41,7 +41,7 @@ Este trabalho implementa um processador monociclo baseado na arquitetura MIPS, c
 ├── exemplo.hex
 ├── README.md
 ├── Relatorio_MIPS_Monociclo.pdf (opcional)
-´´´
+``
 
 
 ---
